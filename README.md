@@ -18,7 +18,7 @@ This repo celebrates and centralizes all the OSS efforts by PICT students 🌍
 
 ## 📬 Want to Add Your Project?
 
-Make a PR or fill out this [form](https://example.com/form) with:
+Make a PR or fill out this [form](https://forms.gle/m1aAnQGW15NjPYZr8) with:
 - Project Name
 - Description
 - Tech stack

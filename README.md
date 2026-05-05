@@ -12,6 +12,7 @@ A curated list of open source projects built by students at **Pune Institute of 
 | VIREX - Virtual Executor | A platform-independent virtual machine with an open and readable intermediate language (SASM), inspired by the JVM. | C, Make, Graphviz | [https://github.com/Soham-Metha/virex](https://github.com/Soham-Metha/virex) |
 | Cube Timer | A 3x3 Rubik's Cube timer app for the GNOME desktop. | Libadwaita | [https://github.com/vallabhvidy/CubeTimer](https://github.com/vallabhvidy/CubeTimer) |
 | ShieldOS | ShieldOS is a user-friendly Linux hardening audit tool that helps identify vulnerabilities and security weaknesses in Linux systems. | Python, HTML, Shell | [https://github.com/Suyashp10/ShieldOS](https://github.com/Suyashp10/ShieldOS) |
+| TorCommander - The Toralizer | TorCommander is a lightweight, open-source Linux tool that anonymizes terminal command executions by routing traffic through the Tor network. Designed with simplicity and privacy in mind, it helps users protect their identity and bypass restrictive firewalls. | C, SOCKS4, Make | [https://github.com/ArfatKadvekar/TorCommander](https://github.com/ArfatKadvekar/TorCommander) |
 | Termion | A lightweight terminal emulator built in Rust using egui for the graphical interface. | Rust | [https://github.com/Omkar-Wagholikar/Termion](https://github.com/Omkar-Wagholikar/Termion) |
 | WebGenie | An open-source Browser agent inside a Chrome extension | LangChain, DOM, Chromium API | [https://github.com/derpx06/webgenie](https://github.com/derpx06/webgenie) |
 
